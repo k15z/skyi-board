@@ -11,3 +11,7 @@ so that the perspective transform makes it look consistent regardless of viewing
 If this is fast enough for real-time (which is highly unlikely but also the reason I'm trying to do
 this in C++), it would make a cool augmented reality playground. Virtual monitors, whiteboards, and
 so much more!
+
+## Demos
+> https://drive.google.com/open?id=0B87DjfyJB2c_TkhaVWI4NXhlclU
+> https://www.dropbox.com/s/25sqe7428x83s13/skyi-board.mp4?dl=0
